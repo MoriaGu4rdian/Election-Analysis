@@ -1,6 +1,6 @@
 # Election-Analysis
 ## Overview of Election Audit
-The purpose of this exercise was to automate vote count for this congressional election, building a faster process for certifying elections. This helps us 
+The purpose of this exercise was to automate vote count for this congressional election, building a faster process for certifying elections. This illustrates how working with Python can speed up data processing or increase the amount of data that needs processing without sacrificing time. 
 ## Election Audit Analysis 
 - There were 369,711 votes cast this election
 - County Turnout
